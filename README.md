@@ -1,6 +1,7 @@
 # Web research new technology -> Angular
 ## 1. Sources
 * https://angular.io/guide/quickstart
+* https://angular.io/tutorial
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
