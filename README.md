@@ -10,4 +10,4 @@
 |     5/10/2018     |       Install Angular + Learn basics (1+2+3)     |         2         |
 |     6/10/2018     |            Angular tutorial basics (4)           |        0.5        |
 |     9/10/2018     |           Angular tutorial basics (5+6)          |         2         |
-|     5/11/2018     |            Learn angular in 60 minutes           |                  |
+|     5/11/2018     |               Learn angular video                |                  |
