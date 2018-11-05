@@ -2,7 +2,7 @@
 ## 1. Sources
 * https://angular.io/guide/quickstart
 * https://angular.io/tutorial
-* https://www.youtube.com/watch?v=z4JUm0Bq9AM
+* https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
@@ -10,4 +10,4 @@
 |     5/10/2018     |       Install Angular + Learn basics (1+2+3)     |         2         |
 |     6/10/2018     |            Angular tutorial basics (4)           |        0.5        |
 |     9/10/2018     |           Angular tutorial basics (5+6)          |         2         |
-|     5/11/2018     |               Learn angular video                |                  |
+|     5/11/2018     |            Learn Angular 7 by Example            |                  |
