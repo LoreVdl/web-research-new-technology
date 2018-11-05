@@ -2,7 +2,7 @@
 ## 1. Sources
 * https://angular.io/guide/quickstart
 * https://angular.io/tutorial
-* https://www.youtube.com/watch?v=xjuoBGIiXsM
+* https://www.dunebook.com/create-your-blog-with-angularjs-from-scratch/
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
