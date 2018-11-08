@@ -15,4 +15,4 @@
 |     5/11/2018     |            Learn Angular 7 by Example            |         3         |
 |     6/11/2018     |            Create crud application               |         3         |
 |     7/11/2018     |               Start powerpoint                   |         2         |
-|     8/11/2018     |            Powerpoint + application              |                  |
+|     8/11/2018     |            Powerpoint + application              |         6         |
