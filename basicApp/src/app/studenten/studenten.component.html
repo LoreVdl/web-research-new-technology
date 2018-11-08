@@ -1,0 +1,10 @@
+<h2>Studenten</h2>
+<ul class="heroes">
+  <div *ngFor="let student of students" (click)="onSelect(student)">
+    <h3>{{student.naam}}</h3>
+    <p class="badge">Richting: {{student.richting}}.</p>
+    <p class="badge">Jaar: {{student.jaar}}.</p>
+  </div>
+</ul>
+
+<app-student-detail [student]="selectedStudent"></app-student-detail>
