@@ -1,20 +1,20 @@
 <h1>Contacteer ons</h1>
 
-<form [formGroup]="messageForm" (ngSubmit)="onSubmit()">
+<form [formGroup]="contactForm" (ngSubmit)="onSubmit()">
 
     <label>
       Name:
       <input type="text" formControlName="name">
-      <div *ngIf="submitted && messageForm.controls.name.errors" class="error">
-        <div *ngIf="messageForm.controls.name.errors.required">Je naam is vereist</div>
+      <div *ngIf="submitted && contactForm.controls.name.errors" class="error">
+        <div *ngIf="contactForm.controls.name.errors.required">Je naam is vereist</div>
       </div>
     </label>
 
     <label>
       Message:
       <textarea formControlName="message"></textarea>
-      <div *ngIf="submitted && messageForm.controls.message.errors" class="error">
-        <div *ngIf="messageForm.controls.message.errors.required">Een bericht is vereist</div>
+      <div *ngIf="submitted && contactForm.controls.message.errors" class="error">
+        <div *ngIf="contactForm.controls.message.errors.required">Een bericht is vereist</div>
       </div>
     </label>
 
